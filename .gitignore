@@ -1,0 +1,44 @@
+# Maven
+target*
+dependency-reduced-pom.xml
+core*.dmp
+pom.xml.releaseBackup
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea
+
+# Eclipse
+.cache
+.classpath
+.project
+.checkstyle
+
+.settings
+.externalToolBuilders
+maven-eclipse.xml
+
+#log files
+logs
+*.log
+test-output
+
+#Python
+*.pyc
+
+# review board
+.reviewboardrc
+
+# other files
+.DS_Store
+*.swp
+
+# Scala-IDE specific
+.cache-main
+.cache-tests
+
+# emacs files
+*#
+*~
